@@ -1,0 +1,20 @@
+body{
+    background-color: #111426;
+    color: white;
+    font-family: monospace;
+    font-size: 16px;
+}
+div{
+    background-color: #1B2440;
+    padding: 30px;
+    margin: 20px;
+    border: 1px solid white;
+    box-shadow: 1px 0px 2px 1px white;
+}
+a{
+  color: #93AEBF;  
+}
+img{
+    border: 1px solid #93AEBF;
+    border-radius: 5px;
+}
